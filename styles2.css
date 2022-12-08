@@ -1,0 +1,54 @@
+body {
+    font-family: source-sans-pro,sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    color: rgb(255, 141, 158);
+    background-color: rgb(255, 234, 237);
+}
+img {
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+p {
+    background-color: lightpink; 
+    text-align: center;
+    font-family: source-sans-pro,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: rgb(255, 141, 158);
+}
+h1 {
+    background-color: lightpink; 
+    text-align: center;
+    font-family: source-sans-pro,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 89, 114);
+}
+li {
+    font: 14px;
+    font-style: italic;
+    font-weight: 200;
+    text-align: left;
+    }
+iframe {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+      }
+a:link {
+    color: rgb(255, 186, 196)
+}
+a:visited {
+    color: rgb(247, 0, 37)
+}
+a:hover {
+    font: 14px;
+    font-style: italic;
+    font-weight: 400;
+    color: rgb(255, 140, 157)
+}
+    
